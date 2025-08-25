@@ -12,5 +12,5 @@ logo ao serem adicionados será possivél realizar o sorteio do nome de um amigo
  nome aleatorio será sorteado.
 
  Acesso ao Projeto
- O projeto foi desenvolvido por MCSDias e esta disponibilizado acessando (https:/)
+ O projeto foi desenvolvido por MCSDias e esta disponibilizado acessando (https://github.com/mrcsdias/Projeto-Amigo-Secreto-MrcDias)
 
